@@ -23,4 +23,5 @@ async def main():
     config = {"configurable": {"thread_id": "1"}}
     response = await agent.ainvoke( {"messages": [HumanMessage(content="Get me a direct flight from Rabat to Agadir on August 31st")]}, config ) 
     print(response)
+    
 asyncio.run(main())
