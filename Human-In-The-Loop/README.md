@@ -1,0 +1,2 @@
+Un agent HITL (Human-In-The-Loop) est un agent d’IA dont le fonctionnement inclut explicitement une intervention humaine pendant l’exécution du processus, et pas seulement avant (instruction) ou après (validation).
+Cet agent exécute une tâche, mais s’arrête à certains points clés pour demander une validation, une correction ou une décision à un humain avant de continuer.
