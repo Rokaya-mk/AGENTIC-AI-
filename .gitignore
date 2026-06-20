@@ -6,3 +6,5 @@ Multi-Agents/.env
 .env
 Multi-Agents/.langgraph_api/*
 langgraphbdcc/.env
+agentlanggraph/.env
+agentlanggraph/.langgraph_api

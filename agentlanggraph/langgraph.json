@@ -1,0 +1,11 @@
+{ 
+    "graphs": { 
+        "gent":"./agent.py:builder"
+       
+    }, 
+    "env": "./.env", 
+    "source": { 
+        "kind": "uv", 
+        "root": "."
+        } 
+}
