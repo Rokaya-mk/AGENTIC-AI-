@@ -4,3 +4,5 @@ MCP/.env
 Human-In-The-Loop/.env
 Multi-Agents/.env
 .env
+Multi-Agents/.langgraph_api/*
+langgraphbdcc/.env

@@ -1,0 +1,11 @@
+{ 
+    "graphs": { 
+        "graph":"./conditional_workflow.py:builder" 
+       
+    }, 
+    "env": "./.env", 
+    "source": { 
+        "kind": "uv", 
+        "root": "."
+        } 
+}
