@@ -9,3 +9,4 @@ langgraphbdcc/.env
 agentlanggraph/.env
 agentlanggraph/.langgraph_api
 rag-agent-for-laravel-doc/.env
+chef-personnel-agent/.env
